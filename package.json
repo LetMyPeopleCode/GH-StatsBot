@@ -1,0 +1,25 @@
+{
+  "name": "gh-statsbot",
+  "version": "0.0.1",
+  "description": "Github Stats Collection and Analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LetMyPeopleCode/GH-StatsBot.git"
+  },
+  "keywords": [
+    "github",
+    "statistics",
+    "analytics",
+    "cloning"
+  ],
+  "author": "Greg Bulmash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetMyPeopleCode/GH-StatsBot/issues"
+  },
+  "homepage": "https://github.com/LetMyPeopleCode/GH-StatsBot#readme"
+}
